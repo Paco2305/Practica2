@@ -2,6 +2,6 @@ nombre: José Francisco
 edad: 19
 juegos actuales: COD Warzone, Fornite
 juegos favoritos: Gears of War, Halo
-Carrera
-Materia
-Semestre
+Carrera Ingenieria petrolera
+Materia Fundamentos de Prgramción
+Semestre Tercer semestre
