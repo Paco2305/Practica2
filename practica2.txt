@@ -4,3 +4,4 @@ juegos actuales: COD Warzone, Fornite
 juegos favoritos: Gears of War, Halo
 Carrera
 Materia
+Semestre
